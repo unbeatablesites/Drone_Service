@@ -1,5 +1,5 @@
 # Drone_Service
 
-1) Create Tracker to make Stories
+1) Create UML diagram
 
-2) Creat UML diagram
+2) Create Tracker to make Stories
